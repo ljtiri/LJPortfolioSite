@@ -1,0 +1,52 @@
+/*
+Colors used:
+#5fa4b3 green
+#3c3875 plum
+#60A3C7 blue
+#4D5153; gray
+*/
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: white;
+    font-size: 15px;
+    color: #4D5153;
+}
+
+a {
+    text-decoration: none;
+    color: #60A3C7;
+}
+
+.button {
+    display: inline-block;
+    background-color: #5fa4b3;
+    color: #ffffff !important; /
+    font-weight: 400;
+    padding: 10px;
+    border-radius: 3px;
+    border-bottom: 2px solid #994c30; 
+    transition: 0.2s opacity;
+  }
+
+  .button:hover {
+    opacity: 0.9; 
+    text-decoration: none;
+  }
+
+/* about page */
+  .button-contact {
+    display: inline-block;
+    background-color: #5fa4b3;
+    color: #ffffff !important; /
+    font-weight: 400;
+    padding: 10px;
+    border-radius: 3px;
+    border-bottom: 2px solid #994c30; 
+    transition: 0.2s opacity;
+  }
+
+  .button-contact:hover {
+    opacity: 0.9; 
+    text-decoration: none;
+  }
