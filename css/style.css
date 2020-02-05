@@ -85,6 +85,24 @@ body {
     text-decoration: none;
   }
 
+  #hero {
+    background-color: #78a1aa;
+    padding: 0 50px;
+  }
+
+  #boomr {
+   background-color: #77cfe2;
+   text-align: center;
+  }
+
+  footer {
+    background-color: #60A3C7;
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  
+
 /* about page */
   .button-contact {
     display: inline-block;
@@ -100,4 +118,8 @@ body {
   .button-contact:hover {
     opacity: 0.9; 
     text-decoration: none;
+  }
+  
+  #about {
+    text-align: center;
   }
